@@ -6,4 +6,3 @@
 # NFT
  -  non-fungible token.
  -  Physical money and cryptocurrencies are “fungible,” meaning they can be traded or exchanged for one another.
- -  
